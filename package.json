@@ -1,7 +1,7 @@
 {
     "name": "Rivertown-Launcher",
     "preductname": "Rivertown-Launcher",
-    "version": "2.0.2",
+    "version": "2.2.9",
     "description": "Launcher Mincraft pour le serveur Rivertown",
     "main": "src/app.js",
     "author": {
