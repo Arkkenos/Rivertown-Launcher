@@ -1,11 +1,11 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
-    "version": "2.1.3",
-    "description": "Launcher Mincraft pour le serveur Selvania",
+    "name": "Rivertown-Launcher",
+    "preductname": "Rivertown-Launcher",
+    "version": "2.0.1",
+    "description": "Launcher Mincraft pour le serveur Rivertown",
     "main": "src/app.js",
     "author": {
-        "name": "luuxis, Inc.",
+        "name": "luuxis, Arkkenos, Inc.",
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
